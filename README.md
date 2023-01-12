@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <li>👨‍💻 I work with <strong>html, css, javascript & reactJs</strong>.</li>
   <li>🔭 I’m currently learning <strong>nextJs</strong>. </li>
   <li>💬 Ping me about anything <strong>Frontend Web Development</strong>.</li>
-<li>🎉 Fun Fact : I dream about ideas</li>
+<li>🎉 Fun Fact : The sun shines brightest from the peaks of mountains.</li>
 </ul>
 
 <h2>Connect with me</h3>
