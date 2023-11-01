@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 </ul>
 
 <h2>Connect with me</h3>
-<p><a href="https://www.linkedin.com/in/ayo-osota/"></a>
-  <a href="https://twitter.com/ayo_osota/"></a>
-  <a href="mailto:osotaayomikun@gmail.com"></a></p>
+<p><a href="https://www.linkedin.com/in/ayo-osota/">LinkedIn</a>
+  <a href="https://twitter.com/ayo_osota/">Twitter</a>
+  <a href="mailto:osotaayomikun@gmail.com">Mail</a></p>
 
 
 <h2> My Tools </h2>
