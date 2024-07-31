@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <li>🔭 I’m actively learning <strong>ML&AI</strong>. </li>
   <li>💬 Ping me about <strong>frontend and backend technologies</strong>.</li>
   <li>🖊 I share my creative experiments on <a href="https://codepen.io/ayo_osota">CodePen</a></li>
-  <li>🎉 Fun Fact : "Not only is 5 + 5 equal to 10, but so is 2 + 8, 1 + 9, and 3 + 7. Everyone has their own path, but we'll all reach the same goal."</li>
+  <li>🎉 Fun Fact : "The QWERTY keyboard was designed to slow down typing speeds because early typewriters jammed if people typed too quickly. But no worries for us—we're problem solvers, not typewriters!"</li>
 </ul>
 
 <!--
