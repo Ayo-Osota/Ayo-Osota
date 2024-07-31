@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <h2>Hi there👋❤, I'm Ayomikun Osota</h2>
-<p>I am a Frontend Web Developer</p>
+<p>I am a Software engineer</p>
 
 
 
@@ -23,18 +23,13 @@ Here are some ideas to get you started:
 
 <ul>
   <li>✨ Turning ideas into real life products. </li>
-  <li>👨‍💻 I work with <strong>html, css, javascript & reactJs</strong>.</li>
-  <li>🔭 I’m currently learning <strong>nextJs</strong>. </li>
-  <li>💬 Ping me about anything <strong>Frontend Web Development</strong>.</li>
-<li>🎉 Fun Fact : The sun shines brightest from the peaks of mountains.</li>
+  <li>🔭 I’m actively learning <strong>ML&AI</strong>. </li>
+  <li>💬 Ping me about <strong>frontend and backend technologies</strong>.</li>
+  <li>🖊 I share my creative experiments on [codepen](https://codepen.io/ayo_osota)</li>
+  <li>🎉 Fun Fact : "If you believe it, you can achieve it. The only limit to your success is your imagination"</li>
 </ul>
 
-<h2>Connect with me</h3>
-<p><a href="https://www.linkedin.com/in/ayo-osota/">LinkedIn</a>
-  <a href="https://twitter.com/ayo_osota/">Twitter</a>
-  <a href="mailto:osotaayomikun@gmail.com">Mail</a></p>
-
-
+<!--
 <h2> My Tools </h2>
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="40" width="40" />
@@ -52,6 +47,6 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg"  alt="CodePen" height="40" width="40"/>
         
 </p>
-
+-->
 
 <p> Thanks for visiting my Github Profile❤️ </p>
