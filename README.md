@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <li>✨ Turning ideas into real life products. </li>
   <li>🔭 I’m actively learning <strong>ML&AI</strong>. </li>
   <li>💬 Ping me about <strong>frontend and backend technologies</strong>.</li>
-  <li>🖊 I share my creative experiments on [codepen](https://codepen.io/ayo_osota)</li>
+  <li>🖊 I share my creative experiments on <a href="https://codepen.io/ayo_osota">CodePen</a></li>
   <li>🎉 Fun Fact : "If you believe it, you can achieve it. The only limit to your success is your imagination"</li>
 </ul>
 
