@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <li>🔭 I’m actively learning <strong>ML&AI</strong>. </li>
   <li>💬 Ping me about <strong>frontend and backend technologies</strong>.</li>
   <li>🖊 I share my creative experiments on <a href="https://codepen.io/ayo_osota">CodePen</a></li>
-  <li>🎉 Fun Fact : "If you believe it, you can achieve it. The only limit to your success is your imagination"</li>
+  <li>🎉 Fun Fact : "Not only is 5 + 5 equal to 10, but so is 2 + 8, 1 + 9, and 3 + 7. Everyone has their own path, but we'll all reach the same goal."</li>
 </ul>
 
 <!--
