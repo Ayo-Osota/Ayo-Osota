@@ -6,7 +6,6 @@ Software Engineer
 
 I bring a proven track record of completed projects and a meticulous approach to every task.
 
-*   🌍  I'm based in Nigeria
 *   ✉️  You can contact me at [osotaayomikun@gmail.com](mailto:osotaayomikun@gmail.com)
 *   🚀  I'm currently working on [fpl buddy](http://github.com/Ayo-Osota/fpl-buddy) and [spurs Todo app](http://github.com/Ayo-Osota/spurs)
 *   🧠  I'm learning solana dev at superteam
