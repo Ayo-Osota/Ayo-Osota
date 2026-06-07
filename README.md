@@ -6,7 +6,7 @@ Software Engineer
 
 I bring a proven track record of completed projects and a meticulous approach to every task.
 
-*   ✉️  You can contact me at [osotaayomikun@gmail.com](mailto:osotaayomikun@gmail.com)
+*   ✉️  You can contact me at [osotaayomikun@gmail.com](mailto:hello@ayoosota.com)
 *   🚀  I'm currently working on [fpl buddy](http://github.com/Ayo-Osota/fpl-buddy) and [spurs Todo app](http://github.com/Ayo-Osota/spurs)
 *   🧠  Solana dev at superteam
 *   🤝  I'm open to collaborating on anything
